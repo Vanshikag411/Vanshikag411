@@ -21,6 +21,5 @@
 ---
 
 ### 📫 Connect With Me
--[linkedIn](https://www.linkedin.com/in/vanshikag411/)
 - LinkedIn: [https://www.linkedin.com/in/vanshikag411/]
 - Email: vanshikag411@gmail.com
